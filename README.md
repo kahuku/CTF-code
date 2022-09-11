@@ -6,5 +6,5 @@ Code/scripts I wrote to solve CTF challenges
 * [quickmaths.py](./quickmaths.py) - Socket programming with NetCat to perform simple math operations. Taught me socket programming and better input parsing skills.
 
 ### CSAW Qualification Round 2022
-#### PLACE XXXXXXXXX
+#### 89th/884 teams
 * [www.py](./www.py) - Automating requests and following link trail while updating cookies to reach a flag. Taught me how to include cookie information in the requests library.
