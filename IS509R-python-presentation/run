@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run -p 40001:40000 --detach --name mathy mathy:latest
