@@ -13,4 +13,4 @@
 
 ### IS 590R - Red Team vs Blue Team - Fall 2022
 #### Python for cybersecurity
-* [Quick Addition](./IS590R-python-presentation) - Socket programming with Netcat to perform simple addition, designed to teach basic Python skills as well as the Socket and or pwn libraries.
+* [Quick Addition](./IS590R-python-presentation/README.md) - Socket programming with Netcat to perform simple addition, designed to teach basic Python skills as well as the Socket and or pwn libraries.
