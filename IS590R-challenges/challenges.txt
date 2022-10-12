@@ -1,0 +1,23 @@
+Challenge name: GrePy (easy)
+Challenge category: Misc
+Challenge description: https://www.tutorialkart.com/python/python-read-file-as-string/
+Challenge flag: byu22ind{grep_works_too}
+Hint: Do you even need Python?
+Setup instructions: Give them challenge.zip to download
+Walk through of how to solve: `grep -Hn "byu" *`
+
+Challenge name: World Wide Web (medium)
+Challenge category: Web
+Challenge description: The internet is just a network of interconnected pages! [link to www.html]
+Challenge flag: byu22ind{flaggy_flag_flag}
+Hint: Web scrapers can find all of the links on a page very quickly
+Setup instructions: Unzip and place www.html and the challenge folder on a public facing web server
+Walk through of how to solve: Each page is linked to the next page through one of the random <a> tags on the previous page. On the final page in the chain is the flag. Since there are so many pages, use Python's BeautifulSoup and requests libraries to follow the links (only one href on each page) until the end of the chain.
+
+Challenge name: Mathy (hard)
+Challenge category: Misc
+Challenge description: Are you a math whiz?
+Challenge flag: byu22ind{1sn.t_pYth0n_gr3@t?}
+Hint: You might want to use p(y)wn
+Setup instructions: ./run
+Walk through of how to solve: One correct solution is in solve.py. Use socket or pwn library in Python to read the ints from the session, add them, and return them to the listener.
