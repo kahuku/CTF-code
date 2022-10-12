@@ -1,3 +1,8 @@
+Download a specific folder from my CTF-Code repo:
+1- Go to https://download-directory.github.io/
+2- Input `https://github.com/kahuku/CTF-code/tree/main/IS590R-challenges` and your token
+3- Download & Unzip
+
 Challenge name: GrePy (easy)
 Challenge category: Misc
 Challenge description: https://www.tutorialkart.com/python/python-read-file-as-string/
