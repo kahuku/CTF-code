@@ -124,3 +124,6 @@ List CTFs I assisted in organizing & hosting.
 * [Mathy](ctf-challenges/IS590R-challenges/hard/README.md) - Socket programming with Netcat to perform simple addition, designed to teach basic Python skills as well as the Socket and/or pwn libraries.
 * [GrePy](ctf-challenges/IS590R-challenges/easy/README.md) - Simple Python and or grep commands to find the flag in a dynamically created folder full of random words in .txt files.
 * [World Wide Web](ctf-challenges/IS590R-challenges/medium/README.md) - Using requests and BeautifulSoup libraries in Python for web scraping and automation to find hrefs in a large page and follow a chain of links towards a final flag. Simpler version of the challenge I saw in CSAW Qualifiers in 2022 that I solved with [www.py](ctf-code/www.py)
+
+# Writeups
+* [BYU CSA End of Semester CTFs](https://github.com/kahuku/byuctf_writeups)
