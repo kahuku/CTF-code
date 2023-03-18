@@ -2,7 +2,7 @@
 
 A list of CTFs and other cybersecurity competitions I have participated in, either individually or as part of a team, and my placements in those CTFs.
 
-**[CTFTime profile](https://ctftime.org/user/117091)** -- My personal CTFTime profile
+**[doctordillydilly](https://ctftime.org/user/117091)** -- My personal CTFTime profile
 
 
 **[BYU Cyberia](https://ctftime.org/team/155711)** -- Brigham Young University Cybersecurity Student Association Capture the Flag Team
@@ -17,43 +17,79 @@ A list of CTFs and other cybersecurity competitions I have participated in, eith
 [DEFCON AppSec Village CTF](https://www.appsecvillage.com/ctf) -- BYU Cyberia
 * 1st place!!!
 * [BYU Magazine Article](https://magazine.byu.edu/article/capturing-the-cyber-flag/)
+
+
 [National Cyber League (NCL) Fall 2022](https://cyberskyline.com/hosted_events/ncl-fall-2022)
 * Team game: 7th/1068 (top 1%) -- BYU Cyberia
 * Individual game: 1528th/3487 -- doctordillydilly @ BYU
+
+
 BYU CSA End of Semester CTF Fall 2022 -- Individual
 * Forgot to record placement. Was top 10 out of ~50ish competitors.
 * Won post-CTF writeup competition
+
+
 BYU CSA End of Semester CTF Winter 2022 -- Individual
 * Forgot to record placement. Was top 15 out of ~40ish competitors.
 * Won post-CTF writeup competition
+
+
 [Square CTF 2022](https://ctftime.org/event/1756) -- BYU Cyberia
 * 251st/593
+
+
 [DEADFACE CTF](https://ctftime.org/event/1692) -- BYU Cyberia
 * 45th/1173 (top 4%)
+
+
 [DownUnderCTF 2022](https://ctftime.org/event/1625) -- BYU Cyberia
 * 125th/1407 (top 9%)
+
+
 [CSAW CTF Qualification Round 2022](https://ctftime.org/event/1613) -- BYU Cyberia
 * 89th/884
+
+
 [UIUCTF 2022](https://ctftime.org/event/1600) -- BYU Cyberia
 * 76th/395
+
+
 [BSidesSF 2022 CTF](https://ctftime.org/event/1666) -- BYU Cyberia
 * 13th/140 (top 10%)
+
+
 [Cyber Apocalypse CTF 2022](https://ctftime.org/event/1639) -- BYU Cyberia
 * 131st/3697 (top 4%)
+
+
 [San Diego CTF 2022](https://ctftime.org/event/1495) -- BYU Cyberia
 * 21st/615 (top 4%)
+
+
 [Digital Overdose Conference 2022 CTF](https://ctftime.org/event/1623) -- BYU Cyberia
 * 29th/242
+
+
 [NahamCon CTF 2022](https://ctftime.org/event/1630) -- BYU Cyberia
 * 23rd/3272 (top 1%)
+
+
 [UMassCTF 2022](https://ctftime.org/event/1561) -- BYU Cyberia
 * 13th/314 (top 5%)
+
+
 [VishwaCTF 2022](https://ctftime.org/event/1548) -- BYU Cyberia
 * 28th/748 (top 4%)
+
+
 [Pragyan CTF 2022](https://ctftime.org/event/1591) -- BYU Cyberia
 * 78th/225
+
+
 [FooBar CTF 2022](https://ctftime.org/event/1579) -- BYU Cyberia
 * 141st/372
+
+
 [DiceCTF 2022](https://ctftime.org/event/1541) -- BYU Cyberia
 * 428th/1127
 
